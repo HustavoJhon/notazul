@@ -82,7 +82,7 @@ importers:
         specifier: ^0.5.9
         version: 0.5.9(tailwindcss@3.4.14)
       astro-vtbot:
-        specifier: ^1.10.5
+        specifier: ^1.10.6
         version: 1.10.6
       prettier:
         specifier: ^3.3.3
